@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44b56eae013301a75478254211d7f2a8",
+    "revision": "319f37ec279031697ea4e1b9cfa88afc",
     "url": "/scraper-node/index.html"
   },
   {
