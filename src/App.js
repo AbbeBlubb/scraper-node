@@ -18,7 +18,7 @@ class App extends React.Component {
         <div className="app">
           <header>
             <div className="nes-container is-rounded with-title">
-              <p className="title"><h1 className="nes-badge"><span className="is-error">Scraper</span></h1></p>
+              <h1 className="title"><span className="nes-badge"><span className="is-error">Scraper</span></span></h1>
               <p>Scraping of the Aftonbladet news site is done when this page loads. Scraping request will fire once per day and else return a cached copy of the scraping result from earlier the same day.</p>
             </div>
           </header>
@@ -35,7 +35,16 @@ class App extends React.Component {
         </div>
       );
     } else {
-      return null
+      return (
+        <div className="app">
+          <header>
+            <div className="nes-container is-rounded with-title">
+              <h1 className="title"><span className="nes-badge"><span className="is-error">Waiting...</span></span></h1>
+              <p>Poking the API server. Might take 5 seconds to get it running.</p>
+            </div>
+          </header>
+        </div>
+      )
     }
   }
 }
