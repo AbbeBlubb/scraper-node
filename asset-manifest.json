@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scraper-node/static/css/main.289f8d23.chunk.css",
-    "main.js": "/scraper-node/static/js/main.d2cb4886.chunk.js",
-    "main.js.map": "/scraper-node/static/js/main.d2cb4886.chunk.js.map",
-    "runtime~main.js": "/scraper-node/static/js/runtime~main.2d502146.js",
-    "runtime~main.js.map": "/scraper-node/static/js/runtime~main.2d502146.js.map",
-    "static/js/2.94924ce6.chunk.js": "/scraper-node/static/js/2.94924ce6.chunk.js",
-    "static/js/2.94924ce6.chunk.js.map": "/scraper-node/static/js/2.94924ce6.chunk.js.map",
+    "main.js": "/scraper-node/static/js/main.a717d201.chunk.js",
+    "main.js.map": "/scraper-node/static/js/main.a717d201.chunk.js.map",
+    "runtime~main.js": "/scraper-node/static/js/runtime~main.78017260.js",
+    "runtime~main.js.map": "/scraper-node/static/js/runtime~main.78017260.js.map",
+    "static/js/2.10ab15e3.chunk.js": "/scraper-node/static/js/2.10ab15e3.chunk.js",
+    "static/js/2.10ab15e3.chunk.js.map": "/scraper-node/static/js/2.10ab15e3.chunk.js.map",
     "index.html": "/scraper-node/index.html",
-    "precache-manifest.2c196e818104e355c717ef4330a33629.js": "/scraper-node/precache-manifest.2c196e818104e355c717ef4330a33629.js",
+    "precache-manifest.41ba694796b2cd4c66f45e0c0d470275.js": "/scraper-node/precache-manifest.41ba694796b2cd4c66f45e0c0d470275.js",
     "service-worker.js": "/scraper-node/service-worker.js",
     "static/css/main.289f8d23.chunk.css.map": "/scraper-node/static/css/main.289f8d23.chunk.css.map"
   }
