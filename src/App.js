@@ -7,8 +7,8 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    fetch('http://localhost:4000/aftonbladet')
-    //fetch('https://the-bitch.herokuapp.com/aftonbladet')
+    //fetch('http://localhost:4000/aftonbladet')
+    fetch('https://the-bitch.herokuapp.com/aftonbladet')
       .then(response => response.json())
       .then(data => this.setState({data}))
   }
@@ -21,7 +21,7 @@ class App extends React.Component {
             <div className="nes-container is-rounded with-title">
               <h1 className="title"><span className="nes-badge"><span className="is-error">Scraper</span></span></h1>
               <p>Scraping of the Aftonbladet news site is done when this page loads. Scraping request will fire once per day and else return a cached copy of the scraping result from earlier the same day.</p>
-              <p>Latest scraped: {this.state.data[0].date}</p>
+              <p>Latest scraped: {this.state.data[0].date} + 2hrs</p>
             </div>
           </header>
           <section>
