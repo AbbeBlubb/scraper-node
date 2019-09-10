@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea1df4cf4ca31d9c8db9ac73f0105159",
+    "revision": "0ddafdced219e664895b89ad08314c4c",
     "url": "/scraper-node/index.html"
   },
   {
-    "revision": "8601b572ae95dc8f8f5e",
+    "revision": "3894e7b5001db0f537f8",
     "url": "/scraper-node/static/css/main.289f8d23.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scraper-node/static/js/2.10ab15e3.chunk.js"
   },
   {
-    "revision": "8601b572ae95dc8f8f5e",
-    "url": "/scraper-node/static/js/main.9b3447d8.chunk.js"
+    "revision": "3894e7b5001db0f537f8",
+    "url": "/scraper-node/static/js/main.84c8bb80.chunk.js"
   },
   {
     "revision": "02e85121d804acec540c",
