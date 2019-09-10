@@ -28,7 +28,7 @@ class App extends React.Component {
             <ul className="nes-list is-circle nes-text is-primary">
               {this.state.data[0].headers.map((object, index) => (
                 object.title
-                  ? <li key={index}><a href={object.link} target='_blank' rel='noopener noreferrer'>{object.title}</a></li>
+                  ? <li key={index}><a href={object.url} target='_blank' rel='noopener noreferrer'>{object.title}</a></li>
                   : null
               ))}
             </ul>
