@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scraper-node/static/css/main.eb1a3bab.chunk.css",
-    "main.js": "/scraper-node/static/js/main.84c8bb80.chunk.js",
-    "main.js.map": "/scraper-node/static/js/main.84c8bb80.chunk.js.map",
+    "main.js": "/scraper-node/static/js/main.c8378f16.chunk.js",
+    "main.js.map": "/scraper-node/static/js/main.c8378f16.chunk.js.map",
     "runtime~main.js": "/scraper-node/static/js/runtime~main.78017260.js",
     "runtime~main.js.map": "/scraper-node/static/js/runtime~main.78017260.js.map",
     "static/js/2.10ab15e3.chunk.js": "/scraper-node/static/js/2.10ab15e3.chunk.js",
     "static/js/2.10ab15e3.chunk.js.map": "/scraper-node/static/js/2.10ab15e3.chunk.js.map",
     "index.html": "/scraper-node/index.html",
-    "precache-manifest.03d409b4d0bc0f72bc800ad40cf22702.js": "/scraper-node/precache-manifest.03d409b4d0bc0f72bc800ad40cf22702.js",
+    "precache-manifest.e6f50b9e36cedd99005cab362a3c01a2.js": "/scraper-node/precache-manifest.e6f50b9e36cedd99005cab362a3c01a2.js",
     "service-worker.js": "/scraper-node/service-worker.js",
     "static/css/main.eb1a3bab.chunk.css.map": "/scraper-node/static/css/main.eb1a3bab.chunk.css.map"
   }
